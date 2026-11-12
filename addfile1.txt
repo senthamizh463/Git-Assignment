@@ -1,1 +1,2 @@
 welcome to GitHub
+Cloning and Pulling.
